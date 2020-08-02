@@ -25,3 +25,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem "redis", "~> 4.2"
+
+gem "benchmark-ips", "~> 2.8"
+
+gem "connection_pool", "~> 2.2"
