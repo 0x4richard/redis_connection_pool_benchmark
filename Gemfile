@@ -31,3 +31,5 @@ gem "redis", "~> 4.2"
 gem "benchmark-ips", "~> 2.8"
 
 gem "connection_pool", "~> 2.2"
+
+gem "concurrent-ruby", "~> 1.1"

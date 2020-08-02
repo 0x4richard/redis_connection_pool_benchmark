@@ -158,6 +158,7 @@ PLATFORMS
 DEPENDENCIES
   benchmark-ips (~> 2.8)
   byebug
+  concurrent-ruby (~> 1.1)
   connection_pool (~> 2.2)
   listen (~> 3.2)
   puma (~> 4.1)
