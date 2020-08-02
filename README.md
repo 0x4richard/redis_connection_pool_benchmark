@@ -12,3 +12,5 @@ rails runner ./lib/redis_benchmark.rb
 ```bash
 rails runner ./lib/redis_cache_store_benchmark.rb
 ```
+![image](https://user-images.githubusercontent.com/7600503/89125903-34caf580-d514-11ea-82e9-ffaf89c7f2f7.png)
+
